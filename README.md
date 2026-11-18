@@ -40,7 +40,7 @@ Technologies used in my engineering work.
 
 ## GitHub Activity
 
-[View my contribution graph and recent activity →](https://github.com/nimadoorji2003-pixel?tab=overview#year-list-container)
+[View my contributions and recent activity →](https://github.com/nimadoorji2003-pixel?tab=overview#js-contribution-activity)
 
 [Browse my public repositories →](https://github.com/nimadoorji2003-pixel?tab=repositories)
 
