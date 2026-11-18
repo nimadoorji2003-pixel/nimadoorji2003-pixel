@@ -1,49 +1,78 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
-  <img src="./assets/banner-light.svg" alt="Nima Dorji — Software Engineer. Original geometric mountain and connected-path illustration." width="100%" />
+  <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg" />
+  <img src="./assets/hero.svg" alt="Nima Dorji. Software Engineer. Interfaces, APIs, ideas brought to life. Original lime and violet illustration of connected software layers." width="100%" />
 </picture>
 
-# Hi, I'm Nima.
+<p align="center">
+  <b>Full-stack development</b> &nbsp; / &nbsp; <b>Interactive web experiences</b> &nbsp; / &nbsp; <b>Reliable delivery</b>
+</p>
 
-I build web experiences and the systems that support them. My work brings together thoughtful interfaces, responsive design, accessibility, and reliable delivery.
-
-[Featured work](#featured-projects) · [Skills](#skills) · [GitHub activity](#github-activity)
+<p align="center">
+  <a href="#featured-projects">Selected work</a> &nbsp;·&nbsp;
+  <a href="#tech-stack">Tech stack</a> &nbsp;·&nbsp;
+  <a href="#github-activity">Activity</a>
+</p>
 
 ## About Me
 
-I'm a software engineer interested in making useful products feel clear and work well. I enjoy the details that connect design and engineering: how an interface adapts to a phone, how motion guides a user, and how checks help a team ship with confidence.
+I'm **Nima Dorji**, a software engineer working across web interfaces, backend APIs, and the tooling that helps teams ship. I enjoy turning complex flows into clear experiences, from responsive layouts and purposeful motion to reliable services and automated checks.
 
 ## Featured Projects
 
-### 01 / [108.bt](https://108.bt)
+<a href="https://108.bt">
+  <img src="./assets/108-feature.svg" alt="Featured project: 108.bt — prayers, memories and one shared story. Open the live experience." width="100%" />
+</a>
 
-A digital experience bringing together prayers and personal memories around 108 chortens, with participation in Dzongkha and English.
+<a href="https://108.bt">
+  <img src="./assets/108-preview.png" alt="108.bt live website preview: a white and gold chorten in a green mountain landscape, with the 108 identity and participation navigation." width="100%" />
+</a>
 
-**My contribution:** responsive interface refinements, accessibility improvements, interactive animation, and automated build validation.
+### [108.bt ↗](https://108.bt)
 
-[Explore the live experience ↗](https://108.bt)
+A digital experience connecting prayers and personal memories around 108 chortens, with participation in Dzongkha and English.
 
-## Skills
+**My work:** responsive interface refinements, accessibility improvements, interactive animation, and automated build validation.
 
-Technologies used in my engineering work.
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `GitHub Actions`
 
-<p>
-  <img src="./assets/typescript.svg" alt="TypeScript — typed application development" width="148" height="52" />
-  <img src="./assets/javascript.svg" alt="JavaScript — interactive web experiences" width="148" height="52" />
-  <img src="./assets/nextjs.svg" alt="Next.js — web application development" width="148" height="52" />
-  <img src="./assets/html-css.svg" alt="HTML and CSS — responsive interfaces" width="148" height="52" />
-  <img src="./assets/git.svg" alt="Git — version control and collaboration" width="148" height="52" />
-  <img src="./assets/github-actions.svg" alt="GitHub Actions — automated build validation" width="148" height="52" />
+**[Visit the live experience →](https://108.bt)**
+
+## Tech Stack
+
+### Web &amp; interaction
+
+<img src="./assets/stack-web.svg" alt="TypeScript, JavaScript, React, Next.js, and Tailwind CSS" width="320" />
+
+TypeScript · JavaScript · React · Next.js · Tailwind CSS
+
+### APIs &amp; data
+
+<img src="./assets/stack-backend.svg" alt="Node.js, NestJS, PostgreSQL, and Redis" width="254" />
+
+Node.js · NestJS · PostgreSQL · Redis
+
+### Build &amp; delivery
+
+<img src="./assets/stack-delivery.svg" alt="Docker, Git, GitHub Actions, and Bun" width="254" />
+
+Docker · Git · GitHub Actions · Bun
+
+## How I Build
+
+<p align="center">
+  <img src="./assets/focus-interfaces.svg" alt="Thoughtful interfaces: responsive, accessible, interactive." width="260" />
+  <img src="./assets/focus-apis.svg" alt="Well-structured APIs: clear contracts and predictable behavior." width="260" />
+  <img src="./assets/focus-delivery.svg" alt="Confidence to ship: checks, builds, and continuous refinement." width="260" />
 </p>
-
-**What I put into practice:** responsive layouts · accessible interactions · interface animation · build and type checks.
 
 ## GitHub Activity
 
-[View my contributions and recent activity →](https://github.com/nimadoorji2003-pixel?tab=overview#js-contribution-activity)
+<a href="https://github.com/nimadoorji2003-pixel?tab=overview#js-contribution-activity">
+  <img src="./assets/activity-link.svg" alt="Follow the work: view my GitHub contributions and recent activity." width="600" />
+</a>
 
-[Browse my public repositories →](https://github.com/nimadoorji2003-pixel?tab=repositories)
+[Contribution history →](https://github.com/nimadoorji2003-pixel?tab=overview#js-contribution-activity) &nbsp;·&nbsp; [Public repositories →](https://github.com/nimadoorji2003-pixel?tab=repositories)
 
 ---
 
-Built with care, one detail at a time.
+<p align="center"><sub>Thoughtful interfaces. Solid foundations. Always refining.</sub></p>
