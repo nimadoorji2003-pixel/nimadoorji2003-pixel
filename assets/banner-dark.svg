@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320" role="img" aria-labelledby="title desc">
+<title id="title">Nima Dorji — Software Engineer</title>
+<desc id="desc">An original mountain outline connects with a copper path and circular sun, alongside Nima Dorji's name.</desc>
+<rect width="960" height="320" rx="16" fill="#192323"/>
+<rect x="1" y="1" width="958" height="318" rx="15" fill="none" stroke="#354443" stroke-width="2"/>
+<path d="M40 40h34M40 40v34M920 280h-34M920 280v-34" fill="none" stroke="#E7A77F" stroke-width="2"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+<text x="58" y="92" font-size="17" letter-spacing="4" fill="#C5C9BE">DESIGN. BUILD. REFINE.</text>
+<text x="54" y="170" font-size="68" font-weight="700" letter-spacing="-2" fill="#F7F3EA">Nima Dorji</text>
+<text x="58" y="213" font-size="26" fill="#C5C9BE">Software Engineer</text>
+</g>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="792" cy="104" r="38" stroke="#E7A77F" stroke-width="2"/>
+<path d="M624 233l65-92 47 56 45-68 102 104" stroke="#354443" stroke-width="3"/>
+<path d="M598 256h74l37-41h53l32-35h62l30 30h34" stroke="#E7A77F" stroke-width="3"/>
+<path d="M689 141l-8 38 20-5 35 23M781 129l-9 41 21-10" stroke="#354443" stroke-width="2"/>
+<circle cx="598" cy="256" r="5" fill="#192323" stroke="#E7A77F" stroke-width="3"/>
+<circle cx="920" cy="210" r="5" fill="#192323" stroke="#E7A77F" stroke-width="3"/>
+</g></svg>
